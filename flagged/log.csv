@@ -1,0 +1,21 @@
+User Input,Chatbot Response,flag,username,timestamp
+,,,,2024-01-26 14:46:26.054354
+"id: 0GeeksforGeeks is hiring for SDE role
+
+Batch: 2022, 2023
+Expected Salary : 50,000 / month (as per Glassdoor) 
+skills: Problems Solving, Maths, Statistics
+Know More: https://internfreak.co/jobs-and-internship-opportunities/geeksforgeeks-is-hiring-for-sde-role
+Posted On: 24/01/2024","'{
+    ""id"": 0,
+    ""title"": ""SDE"",
+    ""company"": ""GeeksforGeeks"",
+    ""location"": ""NA"",
+    ""pay"": ""50,000 / month (as per Glassdoor)"",
+    ""applyLink"": ""https://internfreak.co/jobs-and-internship-opportunities/geeksforgeeks-is-hiring-for-sde-role"",
+    ""logo"": ""NA"",
+    ""skills"": [""Problems Solving"", ""Maths"", ""Statistics""],
+    ""description"": ""Batch: 2022, 2023"",
+    ""postedDate"": ""24/01/2024"",
+    ""lastDate"": ""NA""
+}",,,2024-01-26 15:02:27.993498
